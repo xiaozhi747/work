@@ -11,7 +11,7 @@
         <java.version>1.7</java.version>
         <!--  依赖版本  -->
         <mybatis.version>3.3.0</mybatis.version>
-        <spring.version>4.0.2.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <mapper.version>3.3.4</mapper.version>
         <guava.version>18.0</guava.version>
         <pagehelper.version>4.1.3</pagehelper.version>
